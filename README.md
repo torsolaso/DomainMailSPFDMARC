@@ -1,0 +1,2 @@
+# DomainMailSPFDMARC
+Cortex analyzer
